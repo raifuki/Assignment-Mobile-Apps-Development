@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Lập Trình Kotlin",
+  "description": "Ứng dụng giả lập Android và phát sinh mã nguồn Kotlin Quiz hoàn chỉnh theo đúng chuẩn MVVM, ConstraintLayout, SharedPreferences và RecyclerView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
